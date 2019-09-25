@@ -1,4 +1,4 @@
-package com.learning.springboot.springbootweb;
+package com.learning.sprigboot.springbootdata;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringbootWebApplicationTests {
+public class SpringbootDataApplicationTests {
 
     @Test
     public void contextLoads() {

@@ -1,13 +1,13 @@
-package com.learning.springboot.springbootweb;
+package com.learning.sprigboot.springbootdata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootWebApplication {
+public class SpringbootDataApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootWebApplication.class, args);
+        SpringApplication.run(SpringbootDataApplication.class, args);
     }
 
 }
